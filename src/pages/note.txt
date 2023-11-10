@@ -1,0 +1,38 @@
+back end - json servers
+-------------------------
+json srver is a lighte weight and easy to use node js tool thAT stimulate restufull API 
+json file as a data sourse 
+with json servers frontend developers can create moke API s without end to write 
+
+Features-=
+easy to setup and userfriendly 
+support hhtp request methods
+(does like a backend Api servers)
+with json server u can perform CRUD operations create Read Update and Delete operation on data to build a interactive application
+ability to create custom rules
+
+step to create json server 
+---------------------------
+1)create a folder 
+2)npm init -y for installing package.json
+3)npm i json-server for insatall json server library to run the json file 
+4)
+
+content type : application/json ---- already existing data in  internet
+content type : multipart/form-data -------- for giving the data from server
+
+
+parent to child sharing method in react
+----------------------------------------
+redux---
+contex Api---
+state lifting ---comm with siblings
+
+drag and drop in react
+---------------------
+html 5 has 4 properties to make drag and drop work
+1)draggable - when added as an attribute to a html element makes the target 
+ 1.5) droppable - when added as an attribute to a html element makes the target
+2)ondragstart - is called immediatedly the element drag usallly the content to be draged is set at this point.
+3)ondragover - is added as a event listner to the element where the draged contens to be added. In another way  used to specify where the content is to be dropped
+4)ondrop- is called immediately the dragged content is released on the element that contains the ondragover eventlistner
